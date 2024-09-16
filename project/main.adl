@@ -1,3 +1,3 @@
-CONTEXT HelloWorld IN ENGLISH
-INCLUDE "example.adl"
+CONTEXT Main IN ENGLISH
+INCLUDE "ProjectAdministration.adl"
 ENDCONTEXT
